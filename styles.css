@@ -69,3 +69,15 @@ footer {
 a {
   color: black;
 }
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: white;
+}
